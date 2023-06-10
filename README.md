@@ -1,8 +1,8 @@
-# Welcome to Remix!
+# Sidescroller
 
 ## Sidescrolling & snapping CSS tests.
 
 
-Test of a ghroup of vertically crolling/snapping pages, with horizontally scrolling/snapping slides inside them.
+Test of horizontally scrolling/snapping 'slides' inside a group of vertically scrolling/snapping 'pages'.
 
 Seems to work well!
