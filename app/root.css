@@ -61,7 +61,8 @@ body {
 	min-height: 100vh;
 	min-height: 100svh;
 	min-width: 100vw;
-	scroll-snap-align: start end;
+	/* scroll-snap-align: start end; */
+	scroll-snap-align: center;
 	background: center / cover no-repeat;
 	overflow: hidden;
 	padding: 2rem;
